@@ -9,7 +9,7 @@ A console debugger like laravel artisan tinker
 
 ## Installation
 ```
-composer require "luoxiaojun1992/yii2-tinker:*"
+composer require "dimanzver/yii2-tinker:*"
 ```
 ## Configuration
 Don't need any configuration.
